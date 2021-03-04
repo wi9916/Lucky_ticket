@@ -1,0 +1,6 @@
+C:\Users\wi991\Desktop\1\Lucky_ticket.pdb
+C:\Users\wi991\Desktop\1\clrcompression.dll
+C:\Users\wi991\Desktop\1\clrjit.dll
+C:\Users\wi991\Desktop\1\coreclr.dll
+C:\Users\wi991\Desktop\1\mscordaccore.dll
+C:\Users\wi991\Desktop\1\Lucky_ticket.exe
